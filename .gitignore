@@ -1,0 +1,10 @@
+result/
+result~/
+darja-balasheva-lsy6533-dag.py
+jars/
+.DS_Store
+.idea/
+*/__pycache__/
+venv/
+orders-spark-job.py
+lineitems-spark-job.py
