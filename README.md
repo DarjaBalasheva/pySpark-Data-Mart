@@ -127,7 +127,7 @@ The project is a set of PySpark tasks for analyzing flight data. Each task focus
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone
+   git clone https://github.com/DarjaBalasheva/pySpark-Data-Mart.git
    ```
    
 
